@@ -1,4 +1,8 @@
-<center># Hi there 👋I'm **Sudharshan Reddy Thammaiahgari**</center>
+<div align="center">
+
+# Hi there 👋I'm **Sudharshan Reddy Thammaiahgari**
+
+</div>
 
 ## 🚀 About Me
 
