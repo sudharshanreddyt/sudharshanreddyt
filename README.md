@@ -17,17 +17,35 @@ I'm a Master's student in Computer Science at The George Washington University. 
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, JavaScript, Apex
+**Languages:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,apex" alt="Languages">
+</p>
 
-**Full Stack:** HTML, CSS, Node.js, Express, React, Angular, Flutter, Dart, Rest API, jQuery
+**Full Stack:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react,angular,flutter,dart" alt="Full Stack">
+</p>
 
-**Python Libraries:** Numpy,Pandas, Scikit-Learn, Tensorflow, FastAPI, PyTorch, Huggingface, Streamlit
+**Python Libraries:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,pytorch,tensorflow" alt="Python Libraries">
+</p>
 
-**Generative AI:** LangChain, LangGraph, LangSmith, RAG, FineTuning, UnSloth, MCP, Ollama
+**Generative AI:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=langchain" alt="Generative AI">
+</p>
 
-**Databases:** MySQL, MongoDB, PostgreSQL, Supabase, ChromaDB, FAISS
+**Databases:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Databases">
+</p>
 
-**Tools & Platforms:** Git, Docker, AWS
+**Tools & Platforms:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws" alt="Tools & Platforms">
+</p>
 
 ## 📫 Let's Connect
 
