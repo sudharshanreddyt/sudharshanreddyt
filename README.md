@@ -17,11 +17,15 @@ I am a Master’s student in Computer Science specializing in Machine Learning a
 
 **Languages:** Python, JavaScript, Java, Apex
 
+
 **Frontend:** React, HTML5, CSS3
+
 
 **Backend:** Node.js, Express, FastAPI
 
+
 **Databases:** PostgreSQL, MongoDB, Chroma, FAISS
+
 
 **Tools & Platforms:** Git, Docker, AWS
 
