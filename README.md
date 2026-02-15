@@ -23,8 +23,8 @@ I am a Master’s student in Computer Science specializing in Machine Learning a
 
 ## 📫 Let's Connect
 
-- **Email:** [sudharshanreddy7710@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/sudharshanreddy/]
-- **Portfolio:** [Your Website]
+- **Email:** sudharshanreddy7710@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sudharshanreddy/
+- **Portfolio:** https://www.linkedin.com/in/sudharshanreddy/
 
 **Feel free to reach out!** I'm always excited to discuss ideas, collaborate on projects, or help with any technical challenges. Let's build something great together! 🚀
