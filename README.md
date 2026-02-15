@@ -1,10 +1,8 @@
-# Hi there 👋
-
-I'm **Sudharshan Reddy Thammaiahgari**, a passionate developer and tech enthusiast driven by the desire to build impactful solutions.
+# Hi there 👋I'm **Sudharshan Reddy Thammaiahgari**
 
 ## 🚀 About Me
 
-I am currently pursuing Master’s in Computer Science with a sepecialization in Machine Learning at The George Washington University. My work spans across Generative AI projects, including RAG-based systems, multi-agent assistants, and Finetuning LLMs. I’m proficient with frameworks like TensorFlow, PyTorch, LangChain, LangGraph, and Hugging Face, and I enjoy bringing AI ideas to life through experimentation and practical implementation. I’m currently seeking opportunities as an AI Engineer to design, train, and deploy intelligent systems and agents that make technology more adaptive and impactful.
+I'm a Master’s student in Computer Science at The George Washington University. My work spans across Generative AI projects, including RAG-based systems, multi-agent assistants, and Finetuning LLMs. I’m proficient with frameworks like TensorFlow, PyTorch, LangChain, LangGraph, and Hugging Face, and I enjoy bringing AI ideas to life through experimentation and practical implementation. I’m currently seeking opportunities as an AI Engineer to design, train, and deploy intelligent systems and agents that make technology more adaptive and impactful.
 
 ## 💼 What I Do
 
