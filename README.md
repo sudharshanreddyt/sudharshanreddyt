@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm **Sudharshan Reddy T**, a passionate developer and tech enthusiast driven by the desire to build impactful solutions.
+I'm **Sudharshan Reddy Thammaiahgari**, a passionate developer and tech enthusiast driven by the desire to build impactful solutions.
 
 ## 🚀 About Me
 
-I'm a full-stack developer with a keen interest in creating clean, efficient code and solving complex problems. I love collaborating with others and contributing to open-source projects that make a difference. Always eager to learn new technologies and best practices in software development.
+I Master’s student in Computer Science at The George Washington University, specializing in Machine Learning. My work spans across Generative AI projects, including RAG-based systems, multi-agent assistants, and Finetuning LLMs. I’m proficient with frameworks like TensorFlow, PyTorch, LangChain, LangGraph, and Hugging Face, and I enjoy bringing AI ideas to life through experimentation and practical implementation. I’m currently seeking opportunities as an AI Engineer to design, train, and deploy intelligent systems and agents that make technology more adaptive and impactful.
 
 ## 💼 What I Do
 
@@ -15,29 +15,16 @@ I'm a full-stack developer with a keen interest in creating clean, efficient cod
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript, Python, Java, Go
-
-**Frontend:** React, Vue.js, HTML5, CSS3, Tailwind CSS
-
-**Backend:** Node.js, Express, Django, FastAPI
-
-**Databases:** PostgreSQL, MongoDB, Redis
-
-**Tools & Platforms:** Git, Docker, Kubernetes, AWS, GitHub Actions
+**Languages:** Python, JavaScript, Java, Apex
+**Frontend:** React, HTML5, CSS3
+**Backend:** Node.js, Express, FastAPI
+**Databases:** PostgreSQL, MongoDB, Chroma, FAISS
+**Tools & Platforms:** Git, Docker, AWS
 
 ## 📫 Let's Connect
 
-- **Email:** [Your Email Here]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [@yourhandle]
+- **Email:** [sudharshanreddy7710@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/sudharshanreddy/]
 - **Portfolio:** [Your Website]
-
-## 🎯 Fun Facts
-
-- ⚡ I believe in the power of continuous learning and growth
-- 🎮 When I'm not coding, you can find me exploring new tech, gaming, or contributing to the community
-- 🌍 Passionate about building inclusive and accessible software
-
----
 
 **Feel free to reach out!** I'm always excited to discuss ideas, collaborate on projects, or help with any technical challenges. Let's build something great together! 🚀
