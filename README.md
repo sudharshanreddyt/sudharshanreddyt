@@ -15,18 +15,11 @@ I am a Master’s student in Computer Science specializing in Machine Learning a
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, Java, Apex
-
-
-**Frontend:** React, HTML5, CSS3
-
-
-**Backend:** Node.js, Express, FastAPI
-
-
-**Databases:** PostgreSQL, MongoDB, Chroma, FAISS
-
-
+**Languages:** Python, Java, JavaScript, Apex
+**Full Stack:** HTML, CSS, Node.js, Express, React, Angular, Flutter, Dart, Rest API, jQuery
+**Python Libraries:** Numpy,Pandas, Scikit-Learn, Tensorflow, FastAPI, PyTorch, Huggingface, Streamlit
+**Generative AI:** LangChain, LangGraph, LangSmith, RAG, FineTuning, UnSloth, MCP, Ollama
+**Databases:** MySQL, MongoDB, PostgreSQL, Supabase, ChromaDB, FAISS
 **Tools & Platforms:** Git, Docker, AWS
 
 ## 📫 Let's Connect
