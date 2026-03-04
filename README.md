@@ -8,7 +8,7 @@ Generative AI Engineer | Full-Stack Developer  | Arlington, VA
 
 ## 🚀 About Me
 
-I'm a Master's student in Computer Science at The George Washington University. My work spans across Generative AI projects, including RAG-based systems, multi-agent assistants, and Finetuning LLMs. I'm proficient with frameworks like TensorFlow, PyTorch, LangChain, LangGraph, and Hugging Face, and I enjoy bringing AI ideas to life through experimentation and practical implementation. I enjoy combining strong software engineering principles with modern AI frameworks to build real-world AI applications.
+I'm a Master's student in Computer Science at The George Washington University. My work spans across Generative AI projects, including RAG-based systems, multi-agent assistants, and Finetuning LLMs. I'm proficient with frameworks like TensorFlow, PyTorch, LangChain, LangGraph, and Hugging Face, and I enjoy combining strong software engineering principles with modern AI frameworks to build real-world AI applications.
 
 
 ## 🛠 Technical Skills
@@ -29,33 +29,14 @@ I'm a Master's student in Computer Science at The George Washington University. 
 
 ## GenAI Projects
 
-* [RAG Agent](https://github.com/sudharshanreddyt/website-rag)
-Built a customizable Retrieval-Augmented Generation system using LangGraph that dynamically decides when to retrieve context from a vector database or respond directly.
+* [AI Desktop Assistant](https://github.com/sudharshanreddyt/ai_desktop_assistant) - An AI powered desktop assistant that demonstrates AGI like characteristics.
 
-**Tech:** Python, LangGraph, ChromaDB, HuggingFace, Groq
+* [RAG Agent](https://github.com/sudharshanreddyt/website-rag) - Built a customizable Retrieval-Augmented Generation system using LangGraph that dynamically decides when to retrieve context from a vector database or respond directly.
 
----
+* [Conversational SQL Assistant](https://github.com/sudharshanreddyt/retail_sqldb_assistant) - Developed an LLM-powered natural language interface over a MySQL database for business analytics.
 
-### 🔹 Multi-Agent Personal Assistant
-Designed a supervisor-pattern multi-agent architecture coordinating calendar and email agents with human-in-the-loop review.
+* [Similar Image Finder](https://github.com/sudharshanreddyt/Similar-Image-Finder) - Built a semantic image retrieval system using CLIP embeddings and KNN with cosine similarity on 25,000+ images.
 
-**Tech:** Python, LangChain, LangGraph
-
----
-
-### 🔹 Conversational SQL Assistant
-Developed an LLM-powered natural language interface over a MySQL database for business analytics.
-
-**Tech:** Python, LangChain, Streamlit, MySQL
-
----
-
-### 🔹 Similar Image Finder
-Built a semantic image retrieval system using CLIP embeddings and KNN with cosine similarity on 25,000+ images.
-
-**Tech:** Python, CLIP, Scikit-Learn, Streamlit
-
----
 
 ## 📈 What I'm Currently Exploring
 
