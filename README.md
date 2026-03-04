@@ -25,7 +25,6 @@ I'm a Master's student in Computer Science at The George Washington University. 
 
 **Cloud & DevOps:** AWS (S3, EC2, Lambda), DigitalOcean, Render
 
----
 
 ## GenAI Projects
 
@@ -38,21 +37,19 @@ I'm a Master's student in Computer Science at The George Washington University. 
 * [Similar Image Finder](https://github.com/sudharshanreddyt/Similar-Image-Finder) - Built a semantic image retrieval system using CLIP embeddings and KNN with cosine similarity on 25,000+ images.
 
 
-## 📈 What I'm Currently Exploring
+## What I'm Currently Exploring
 
 - Advanced multi-agent architectures  
 - LLM optimization & fine-tuning  
 - AI system design patterns  
 - Scalable AI deployment  
 
----
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sudharshanreddy/
 - 💻 Portfolio: https://www.linkedin.com/in/sudharshanreddy/
 - 📧 Email: sudharshanreddy7710@gmail.com
 
----
 
-**Feel free to reach out!** I'm always excited to discuss ideas, collaborate on projects, or help with any technical challenges. Let's build something great together! 🚀
+**Feel free to reach out!** I'm always excited to discuss ideas, collaborate on projects, or help with any technical challenges. Let's build something great together!
