@@ -18,7 +18,7 @@ I'm a Master's student in Computer Science at The George Washington University. 
 * **Generative AI:** Multi-Agent Systems, Retrieval-Augmented Generation (RAG), Fine-Tuning (LoRA), Ollama  
 * **Web Development:** React, Angular, Node.js, Express
 * **Databases:** MySQL, PostgreSQL, MongoDB, Vector Databases(FAISS, ChromaDB) 
-* **Cloud & DevOps:** AWS (S3, EC2, Lambda), DigitalOcean, Render
+* **Cloud & DevOps:** AWS (S3, EC2, Lambda), Microsoft Azure(AI Foundry) DigitalOcean, Render
 
 
 ## 🧠 GenAI Projects
