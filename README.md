@@ -27,9 +27,9 @@ I'm a Master's student in Computer Science at The George Washington University. 
 
 ---
 
-## 🧠 AI & GenAI Projects
+## GenAI Projects
 
-### 🔹 RAG Agent
+* [RAG Agent](https://github.com/sudharshanreddyt/website-rag)
 Built a customizable Retrieval-Augmented Generation system using LangGraph that dynamically decides when to retrieve context from a vector database or respond directly.
 
 **Tech:** Python, LangGraph, ChromaDB, HuggingFace, Groq
