@@ -15,17 +15,15 @@ I'm a Master's student in Computer Science at The George Washington University. 
 
 **Languages:** Python, Java, JavaScript  
 
-**AI/ML Frameworks:** PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph, Google ADK  
+**AI/ML Frameworks:** LangChain, LangGraph, Google ADK, PyTorch, TensorFlow, Hugging Face, Livekit
 
 **Generative AI:** Multi-Agent Systems, Retrieval-Augmented Generation (RAG), Fine-Tuning (LoRA), Ollama  
 
-**Web Development:** React, Angular, Node.js, Express  
+**Web Development:** React, Angular, Node.js, Express
 
-**Databases:** MySQL, PostgreSQL, MongoDB  
+**Databases:** MySQL, PostgreSQL, MongoDB, Vector Databases(FAISS, ChromaDB) 
 
-**Vector Databases:** FAISS, ChromaDB  
-
-**Cloud & DevOps:** AWS (S3, EC2, Lambda), DigitalOcean, Git, GitHub  
+**Cloud & DevOps:** AWS (S3, EC2, Lambda), DigitalOcean, Render
 
 ---
 
