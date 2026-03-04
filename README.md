@@ -5,13 +5,11 @@ Generative AI Engineer | Full-Stack Developer  | Arlington, VA
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharshanreddy/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudharshanreddyt/)
 
----
 
 ## 🚀 About Me
 
 I'm a Master's student in Computer Science at The George Washington University. My work spans across Generative AI projects, including RAG-based systems, multi-agent assistants, and Finetuning LLMs. I'm proficient with frameworks like TensorFlow, PyTorch, LangChain, LangGraph, and Hugging Face, and I enjoy bringing AI ideas to life through experimentation and practical implementation. I enjoy combining strong software engineering principles with modern AI frameworks to build real-world AI applications.
 
----
 
 ## 🛠 Technical Skills
 
