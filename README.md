@@ -1,7 +1,6 @@
 # Hi, I'm Sudharshan Reddy Thammaiahgari 👋
 
-Generative AI Engineer | Full-Stack Developer  
-Arlington, VA  | sudharshanreddy7710@gmail.com  
+Generative AI Engineer | Full-Stack Developer  | Arlington, VA 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharshanreddy/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudharshanreddyt/)
