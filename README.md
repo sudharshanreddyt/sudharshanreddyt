@@ -1,8 +1,8 @@
 # Hi, I'm Sudharshan Reddy Thammaiahgari 👋
 
-🤖 Generative AI Engineer | Full-Stack Developer  
-📍 Arlington, VA  
-📫 sudharshanreddy7710@gmail.com  
+Generative AI Engineer | Full-Stack Developer  
+Arlington, VA  
+sudharshanreddy7710@gmail.com  
 
 ---
 
