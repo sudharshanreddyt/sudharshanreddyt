@@ -1,6 +1,6 @@
 # Hi, I'm Sudharshan Reddy Thammaiahgari 👋
 
-**AI Engineer | Full-Stack Developer  | Arlington, VA**
+**AI Engineer | Software Developer  | Arlington, VA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharshanreddy/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudharshanreddyt/)
@@ -32,7 +32,6 @@ I'm a Master's student in Computer Science at The George Washington University. 
 ## 📈 What I'm Currently Exploring
 
 - Advanced multi-agent architectures  
-- LLM optimization & fine-tuning  
 - AI system design patterns  
 - Scalable AI deployment  
 
@@ -40,7 +39,6 @@ I'm a Master's student in Computer Science at The George Washington University. 
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sudharshanreddy/
-- 💻 Portfolio: https://www.linkedin.com/in/sudharshanreddy/
 - 📧 Email: sudharshanreddy7710@gmail.com
 
 
