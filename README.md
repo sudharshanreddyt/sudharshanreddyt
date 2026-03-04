@@ -11,7 +11,7 @@
 I'm a Master's student in Computer Science at The George Washington University. My work spans across Generative AI projects, including RAG-based systems, multi-agent assistants, and Finetuning LLMs. I'm proficient with frameworks like TensorFlow, PyTorch, LangChain, LangGraph, and Hugging Face, and I enjoy combining strong software engineering principles with modern AI frameworks to build real-world AI applications.
 
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
 * **Languages:** Python, Java, JavaScript  
 * **AI/ML Frameworks:** LangChain, LangGraph, Google ADK, PyTorch, TensorFlow, Hugging Face, Livekit
@@ -21,7 +21,7 @@ I'm a Master's student in Computer Science at The George Washington University. 
 * **Cloud & DevOps:** AWS (S3, EC2, Lambda), DigitalOcean, Render
 
 
-## GenAI Projects
+## 🧠 GenAI Projects
 
 * [AI Desktop Assistant](https://github.com/sudharshanreddyt/ai_desktop_assistant) - An AI powered desktop assistant that demonstrates AGI like characteristics.
 * [RAG Agent](https://github.com/sudharshanreddyt/website-rag) - A RAG system using LangGraph that dynamically decides when to retrieve context from a vector database or respond directly.
@@ -29,7 +29,7 @@ I'm a Master's student in Computer Science at The George Washington University. 
 * [Similar Image Finder](https://github.com/sudharshanreddyt/Similar-Image-Finder) - Built a semantic image retrieval system using CLIP embeddings and KNN with cosine similarity on 25,000+ images.
 
 
-## What I'm Currently Exploring
+## 📈 What I'm Currently Exploring
 
 - Advanced multi-agent architectures  
 - LLM optimization & fine-tuning  
@@ -37,7 +37,7 @@ I'm a Master's student in Computer Science at The George Washington University. 
 - Scalable AI deployment  
 
 
-## Let's Connect
+## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sudharshanreddy/
 - 💻 Portfolio: https://www.linkedin.com/in/sudharshanreddy/
