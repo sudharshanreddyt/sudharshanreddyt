@@ -1,6 +1,6 @@
 # Hi, I'm Sudharshan Reddy Thammaiahgari 👋
 
-Generative AI Engineer | Full-Stack Developer  | Arlington, VA 
+**Generative AI Engineer | Full-Stack Developer  | Arlington, VA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharshanreddy/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudharshanreddyt/)
@@ -13,24 +13,19 @@ I'm a Master's student in Computer Science at The George Washington University. 
 
 ## 🛠 Technical Skills
 
-**Languages:** Python, Java, JavaScript  
-
-**AI/ML Frameworks:** LangChain, LangGraph, Google ADK, PyTorch, TensorFlow, Hugging Face, Livekit
-
-**Generative AI:** Multi-Agent Systems, Retrieval-Augmented Generation (RAG), Fine-Tuning (LoRA), Ollama  
-
-**Web Development:** React, Angular, Node.js, Express
-
-**Databases:** MySQL, PostgreSQL, MongoDB, Vector Databases(FAISS, ChromaDB) 
-
-**Cloud & DevOps:** AWS (S3, EC2, Lambda), DigitalOcean, Render
+* **Languages:** Python, Java, JavaScript  
+* **AI/ML Frameworks:** LangChain, LangGraph, Google ADK, PyTorch, TensorFlow, Hugging Face, Livekit
+* **Generative AI:** Multi-Agent Systems, Retrieval-Augmented Generation (RAG), Fine-Tuning (LoRA), Ollama  
+* **Web Development:** React, Angular, Node.js, Express
+* **Databases:** MySQL, PostgreSQL, MongoDB, Vector Databases(FAISS, ChromaDB) 
+* **Cloud & DevOps:** AWS (S3, EC2, Lambda), DigitalOcean, Render
 
 
 ## GenAI Projects
 
 * [AI Desktop Assistant](https://github.com/sudharshanreddyt/ai_desktop_assistant) - An AI powered desktop assistant that demonstrates AGI like characteristics.
 
-* [RAG Agent](https://github.com/sudharshanreddyt/website-rag) - Built a customizable Retrieval-Augmented Generation system using LangGraph that dynamically decides when to retrieve context from a vector database or respond directly.
+* [RAG Agent](https://github.com/sudharshanreddyt/website-rag) - A RAG system using LangGraph that dynamically decides when to retrieve context from a vector database or respond directly.
 
 * [Conversational SQL Assistant](https://github.com/sudharshanreddyt/retail_sqldb_assistant) - Developed an LLM-powered natural language interface over a MySQL database for business analytics.
 
